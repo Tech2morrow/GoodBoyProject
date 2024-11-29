@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "output": ".arduino/output",
+    "sketch": "Code/GoodBoy_Arduino/GoodBoy_Arduino.ino"
+}
